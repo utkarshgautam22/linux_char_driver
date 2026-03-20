@@ -276,4 +276,3 @@ Utkarsh Gautam
 
 ## Assignment
 Operating Systems Assignment 1 - March 2026
-# linux_char_driver
